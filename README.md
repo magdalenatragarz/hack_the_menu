@@ -1,4 +1,3 @@
----
 ```
  eat.py [-h] [-c CHEESE [CHEESE ...]] [-o OTHERS [OTHERS ...]]
               [-v VEGE [VEGE ...]] [-m MEAT [MEAT ...]] -s {big,medium,small}
