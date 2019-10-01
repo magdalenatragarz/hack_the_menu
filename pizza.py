@@ -13,7 +13,6 @@ class Pizza:
         self.others = others
 
     def swap(self, target_meat, target_vege, target_cheese, target_others):
-
         for meat in  self.meat:
             self.end_price -= self.prices['meat'][meat]['price_' + self.size]
         for vege in  self.vege:
@@ -36,6 +35,7 @@ class Pizza:
         if self.end_price < self.initial_price:
             return self.initial_price
         return self.end_price
+
 
 
 

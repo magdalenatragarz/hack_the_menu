@@ -1,7 +1,17 @@
 import json
 import argparse
+import sys
 
 from pizza import Pizza
+
+
+def __print_ingredients_list(prices):
+    for kind in prices:
+        print(kind.capitalize() + ":")
+        for ingredient in prices[kind]:
+            print(" - " + ingredient)
+
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--cheese', nargs='+', help='List of cheese ingredients')
@@ -47,7 +57,13 @@ for pizza in menu:
         menu[pizza]['ingredients']['others'],
         size,
         prices)
-    pizza_obj.swap(meat, vege, cheese, others)
+    try:
+        pizza_obj.swap(meat, vege, cheese, others)
+    except KeyError:
+        print("Use correct names. Here, you have list of supported ingredients:")
+        __print_ingredients_list(prices)
+        sys.exit()
+
     result[pizza] = pizza_obj.get_final_price()
 
 for name, price in sorted(result.items(), key=lambda item: item[1])[:1]:
