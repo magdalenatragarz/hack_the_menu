@@ -1,0 +1,512 @@
+{
+  "margeritha": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": [],
+      "others": []
+    },
+    "big": {
+      "price": 26.0
+    },
+    "medium" : {
+      "price": 22.2
+    },
+    "small": {
+      "price": 15.4
+    }
+  },
+  "capriciosa": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["mushrooms"],
+      "meat": ["ham"],
+      "others": []
+      },
+    "big": {
+      "price": 34.5
+    },
+    "medium" : {
+      "price": 29.5
+    },
+    "small": {
+      "price": 20.3
+    }
+  },
+  "parma": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": ["parma_ham"],
+      "others": ["basil"]
+    },
+    "big": {
+      "price": 39.9
+    },
+    "medium" : {
+      "price": 34.0
+    },
+    "small": {
+      "price": 23.4
+    }
+  },
+  "campione": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": ["bacon", "kabanos", "ham", "salami"],
+      "others": []
+    },
+    "big": {
+      "price": 41.9
+    },
+    "medium" : {
+      "price": 35.6
+    },
+    "small": {
+      "price": 24.7
+    }
+  },
+  "decoro": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["garlic","mushrooms","pickled_pepper"],
+      "meat": ["ham"],
+      "others": []
+    },
+    "big": {
+      "price": 39.9
+    },
+    "medium" : {
+      "price": 34.0
+    },
+    "small": {
+      "price": 23.4
+    }
+  },
+  "pepe_roso": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["pickled_pepper"],
+      "meat": ["salami"],
+      "others": []
+    },
+    "big": {
+      "price": 34.5
+    },
+    "medium" : {
+      "price": 29.5
+    },
+    "small": {
+      "price": 20.3
+    }
+  },
+  "napoletana": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["green_olives","jalapenos"],
+      "meat": ["salami"],
+      "others": []
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "piacere": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["white_onion","corn"],
+      "meat": ["bacon", "salami"],
+      "others": []
+    },
+    "big": {
+      "price": 38.4
+    },
+    "medium" : {
+      "price": 32.5
+    },
+    "small": {
+      "price": 22.4
+    }
+  },
+  "roma": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["pickled_pepper"],
+      "meat": ["kabanos", "salami"],
+      "others": []
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "polska": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["white_onion", "pepper"],
+      "meat": ["kabanos", "sausage", "ham"],
+      "others": []
+    },
+    "big": {
+      "price": 39.9
+    },
+    "medium" : {
+      "price": 24.0
+    },
+    "small": {
+      "price": 23.4
+    }
+  },
+  "inverno": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["red_onion"],
+      "meat": ["bacon"],
+      "others": []
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "semplicita": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": ["ham"],
+      "others": []
+    },
+    "big": {
+      "price": 31.6
+    },
+    "medium" : {
+      "price": 27.0
+    },
+    "small": {
+      "price": 18.6
+    }
+  },
+  "mafioso": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["garlic", "jalapenos"],
+      "meat": ["salami"],
+      "others": ["louisiana_sauce"]
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "wiejska": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["white_onion", "garlic", "pickles"],
+      "meat": ["sausage"],
+      "others": []
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "sparare": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["white_onion", "garlic", "tomatoes", "mushrooms"],
+      "meat": ["bacon"],
+      "others": []
+    },
+    "big": {
+      "price": 41.9
+    },
+    "medium" : {
+      "price": 35.6
+    },
+    "small": {
+      "price": 24.7
+    }
+  },
+  "pepperoni": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": ["pepperoni"],
+      "others": []
+    },
+    "big": {
+      "price": 33.0
+    },
+    "medium" : {
+      "price": 28.3
+    },
+    "small": {
+      "price": 19.4
+    }
+  },
+  "havai": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": ["ham"],
+      "others": ["pineapple"]
+    },
+    "big": {
+      "price": 34.5
+    },
+    "medium" : {
+      "price": 29.5
+    },
+    "small": {
+      "price": 20.3
+    }
+  },
+  "da_grasso": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["black_olives", "rucola"],
+      "meat": ["pepperoni"],
+      "others": []
+    },
+    "big": {
+      "price": 38.4
+    },
+    "medium" : {
+      "price": 32.5
+    },
+    "small": {
+      "price": 22.4
+    }
+  },
+  "formicetta": {
+    "ingredients": {
+      "cheese": ["blue_cheese"],
+      "vegetables": ["red_onion"],
+      "meat": ["bacon"],
+      "others": []
+    },
+    "big": {
+      "price": 41.9
+    },
+    "medium" : {
+      "price": 32.6
+    },
+    "small": {
+      "price": 24.7
+    }
+  },
+  "pepe_bianco": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["jalapenos", "pepper"],
+      "meat": ["bacon", "kebab"],
+      "others": []
+    },
+    "big": {
+      "price": 41.9
+    },
+    "medium" : {
+      "price": 35.6
+    },
+    "small": {
+      "price": 24.7
+    }
+  },
+  "pancetta": {
+    "ingredients": {
+      "cheese": ["mozarella"],
+      "vegetables": ["tomatoes"],
+      "meat": ["bacon"],
+      "others": []
+    },
+    "big": {
+      "price": 42.5
+    },
+    "medium" : {
+      "price": 36.1
+    },
+    "small": {
+      "price": 25.0
+    }
+  },
+  "basilico": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": [],
+      "meat": [],
+      "others": ["basil"]
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "viola": {
+    "ingredients": {
+      "cheese": ["mozarella"],
+      "vegetables": ["black_olives", "rucola", "dried_tomatoes"],
+      "meat": [],
+      "others": []
+    },
+    "big": {
+      "price": 42.5
+    },
+    "medium" : {
+      "price": 36.1
+    },
+    "small": {
+      "price": 25
+    }
+  },
+  "cztery_sery": {
+    "ingredients": {
+      "cheese": ["mozarella", "blue_cheese", "feta"],
+      "vegetables": [],
+      "meat": [],
+      "others": []
+    },
+    "big": {
+      "price": 45.5
+    },
+    "medium" : {
+      "price": 38.7
+    },
+    "small": {
+      "price": 26.5
+    }
+  },
+  "green_day": {
+    "ingredients": {
+      "cheese": ["blue_cheese"],
+      "vegetables": ["broccoli", "zucchini", "spinach"],
+      "meat": [],
+      "others": []
+    },
+    "big": {
+      "price": 41.9
+    },
+    "medium" : {
+      "price": 35.6
+    },
+    "small": {
+      "price": 24.7
+    }
+  },
+  "kebab": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["white_onion"],
+      "meat": ["kebab"],
+      "others": []
+    },
+    "big": {
+      "price": 35.4
+    },
+    "medium" : {
+      "price": 29.9
+    },
+    "small": {
+      "price": 20.7
+    }
+  },
+  "pollo": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["red_onion"],
+      "meat": ["kebab", "salami"],
+      "others": []
+    },
+    "big": {
+      "price": 39.9
+    },
+    "medium" : {
+      "price": 24.0
+    },
+    "small": {
+      "price": 23.4
+    }
+  },
+  "pollo_con_broccoli": {
+    "ingredients": {
+      "cheese": ["mozarella"],
+      "vegetables": ["broccoli"],
+      "meat": ["chicken"],
+      "others": []
+    },
+    "big": {
+      "price": 45.5
+    },
+    "medium" : {
+      "price": 38.7
+    },
+    "small": {
+      "price": 26.5
+    }
+  },
+  "barbecue": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["red_onion"],
+      "meat": ["bacon", "kebab"],
+      "others": []
+    },
+    "big": {
+      "price": 41.9
+    },
+    "medium" : {
+      "price": 35.6
+    },
+    "small": {
+      "price": 24.7
+    }
+  },
+  "saporito": {
+    "ingredients": {
+      "cheese": [],
+      "vegetables": ["white_onion", "mushrooms"],
+      "meat": ["chicken"],
+      "others": []
+    },
+    "big": {
+      "price": 39.9
+    },
+    "medium" : {
+      "price": 34.0
+    },
+    "small": {
+      "price": 23.4
+    }
+  }
+}

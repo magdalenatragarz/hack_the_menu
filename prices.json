@@ -1,0 +1,195 @@
+{
+  "cheese": {
+    "cheese": {
+    	"price_big": 6.5,
+      "price_medium": 5.5,
+      "price_small": 4.5
+    },
+    "mozarella": {
+      "price_big": 6.5,
+      "price_medium": 5.5,
+      "price_small": 4.5
+    },
+  "blue_cheese": {
+    "price_big": 6.5,
+    "price_medium": 5.5,
+    "price_small": 4.5
+  },
+  "feta": {
+    "price_big": 6.5,
+    "price_medium": 5.5,
+    "price_small": 4.5
+  }
+},
+"vegetables": {
+  "broccoli": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "white_onion": {
+    "price_big": 2.5,
+    "price_medium": 5,
+    "price_small": 4
+  },
+  "red_onion": {
+    "price_big": 2.5,
+    "price_medium": 5,
+    "price_small": 4
+  },
+  "zucchini": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "garlic": {
+    "price_big": 2.5,
+    "price_medium": 5,
+    "price_small": 4
+  },
+  "corn": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "pickles": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "black_olives": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "green_olives": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "mushrooms": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "pickled_pepper": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "artichokes": {
+    "price_big": 7.5,
+    "price_medium": 6.5,
+    "price_small": 5.5
+  },
+  "tomatoes": {
+    "price_big": 6.5,
+    "price_medium": 5.5,
+    "price_small": 4.5
+  },
+  "jalapenos": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "pepper": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "rucola": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "dried_tomatoes": {
+    "price_big": 6.5,
+    "price_medium": 5.5,
+    "price_small": 4.5
+  },
+  "spinach": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  }
+},
+"meat": {
+  "bacon": {
+    "price_big": 7,
+    "price_medium": 6,
+    "price_small": 5
+  },
+  "kabanos": {
+    "price_big": 6,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "kebab": {
+    "price_big": 7.5,
+    "price_medium": 6.5,
+    "price_small": 5.5
+  },
+  "sausage": {
+    "price_big": 6,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "parma_ham": {
+    "price_big": 8.5,
+    "price_medium": 7.5,
+    "price_small": 6.5
+  },
+  "pepperoni": {
+    "price_big": 7.5,
+    "price_medium": 6.5,
+    "price_small": 5.5
+  },
+  "chicken": {
+    "price_big": 7.5,
+    "price_medium": 6.5,
+    "price_small": 5.5
+  },
+  "ham": {
+    "price_big": 6,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "salami": {
+    "price_big": 6,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  }
+},
+"others": {
+  "schrimps": {
+    "price_big": 8.5,
+    "price_medium": 7.5,
+    "price_small": 6.5
+  },
+  "tuna": {
+    "price_big": 7.5,
+    "price_medium": 6.5,
+    "price_small": 5.5
+  },
+  "pineapple": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "basil": {
+    "price_big": 5.5,
+    "price_medium": 4.5,
+    "price_small": 3.5
+  },
+  "mayonnaise": {
+    "price_big": 2.5,
+    "price_medium": 5,
+    "price_small": 4
+  },
+  "louisiana_sauce": {
+    "price_big": 2.5,
+    "price_medium": 5,
+    "price_small": 4
+  }
+}
+}
